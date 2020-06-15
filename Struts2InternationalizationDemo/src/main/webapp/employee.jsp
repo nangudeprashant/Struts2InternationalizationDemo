@@ -2,7 +2,7 @@
 <%@ taglib prefix="s" uri="/struts-tags"%>
 <html>
 <head>
-<title><s:property value="getText('global.form')" /> - Struts2 Demo | dineshonjava.com</title>
+<title><s:property value="getText('global.form')" /> - Struts2 Demo | JavaLive.com</title>
 <s:head />
 </head>
  

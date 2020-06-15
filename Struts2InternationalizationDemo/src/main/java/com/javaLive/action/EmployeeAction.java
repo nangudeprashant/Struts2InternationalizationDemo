@@ -3,7 +3,7 @@ package com.javaLive.action;
 import com.opensymphony.xwork2.ActionSupport;
 
 /**
- * @author Dinesh Rajput
+ * @author JavaLive.com
  *
  */
 public class EmployeeAction extends ActionSupport {
