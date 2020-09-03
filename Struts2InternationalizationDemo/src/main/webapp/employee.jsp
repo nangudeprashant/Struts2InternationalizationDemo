@@ -20,9 +20,9 @@
 <s:url id="localeEN" namespace="/" action="locale" >
    <s:param name="request_locale" >en</s:param>
 </s:url>
-<s:url id="localeHN" namespace="/" action="locale" >
+<%-- <s:url id="localeHN" namespace="/" action="locale" >
    <s:param name="request_locale" >hn</s:param>
-</s:url>
+</s:url> --%>
 <s:url id="localeES" namespace="/" action="locale" >
    <s:param name="request_locale" >es</s:param>
 </s:url>
@@ -37,7 +37,7 @@
 </s:url>
  
 <s:a href="%{localeEN}" >English</s:a>
-<s:a href="%{localeHN}" >Hindi</s:a>
+<%-- <s:a href="%{localeHN}" >Hindi</s:a> --%>
 <s:a href="%{localeES}" >Spanish</s:a>
 <s:a href="%{localezhCN}" >Chinese</s:a>
 <s:a href="%{localeDE}" >German</s:a>
